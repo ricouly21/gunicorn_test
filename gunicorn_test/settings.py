@@ -84,11 +84,11 @@ WSGI_APPLICATION = 'gunicorn_test.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'test',
-        'USER': 'admin',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': '',
+        'NAME': 'dbgrs4tgk4v6rv',
+        'USER': 'tmdxinewuzslrh',
+        'PASSWORD': 'm9gZCHyrHNP6TzQAJWzbg-6Tpr',
+        'HOST': 'ec2-50-19-233-111.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
